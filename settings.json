@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KIWI_CLUB.aternos.me",
+    "ip": "flagbenny.aternos.host:38101",
     "port": 38101,
     "version": "",
     "try-creative": false
